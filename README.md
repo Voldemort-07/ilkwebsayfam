@@ -1,2 +1,2 @@
 # ilkwebsayfam
-Bu ödev www.patika.dev için hazırlanmıştır
+Bu ödev www.patika.dev için hazırlanmıştır.
